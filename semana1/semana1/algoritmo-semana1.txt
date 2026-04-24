@@ -1,0 +1,13 @@
+Algoritmo: Uso seguro de internet
+
+Inicio
+
+1. Encender el dispositivo electrónico.
+2. Conectarse a una red segura de internet.
+3. Abrir el navegador web.
+4. Ingresar solo a páginas confiables.
+5. No compartir información personal en sitios desconocidos.
+6. Cerrar sesión en todas las cuentas al terminar.
+7. Apagar el dispositivo si ya no se va a utilizar.
+
+Fin
